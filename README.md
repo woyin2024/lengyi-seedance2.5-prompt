@@ -1,7 +1,6 @@
 <div align="center">
 
 # Seedance 2.5 Prompt.skill
----
 A video prompt Skill built specifically for **Seedance 2.5**.<br>
 **Turn an idea / a fragment of a theme / a novel excerpt into a polished 30-second film.**
 
