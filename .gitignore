@@ -1,0 +1,13 @@
+# WorkBuddy local data
+.workbuddy/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
