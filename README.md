@@ -8,7 +8,7 @@ A video prompt Skill built specifically for **Seedance 2.5**.<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![Skill](https://img.shields.io/badge/Format-Skill.md-purple)](./SKILL.md)[![Seedance](https://img.shields.io/badge/Target-Seedance%202.5-success)](https://www.seedance.ai)[![Bilingual](https://img.shields.io/badge/Lang-ZH%20%2F%20EN-orange)](./references/templates.md)
 
 <p align="center">
-  <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a> <a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
+  <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a>  <a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
 </p>
 
 </div>
