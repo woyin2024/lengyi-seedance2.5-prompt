@@ -1,7 +1,7 @@
 <div align="center">
 
 # Seedance 2.5 提示词.skill
----
+
 一款专为 **Seedance 2.5** 量身打造的视频提示词 Skill。<br>
 **把一句想法/碎片主题/小说片段，变成一支高级的 30 秒电影。**
 
